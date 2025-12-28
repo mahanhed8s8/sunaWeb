@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
-      color: text-dark
+      text: Custom AI Models for Your Business
+      color: text-light
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Made by GOFi
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      SunaAi builds custom AI models tailored to your company's needs, alongside
+      intelligent solutions for individual users. Transform your business with
+      the power of artificial intelligence.
     actions:
       - label: Get started
         altText: ''
@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Learn More
         altText: ''
         url: /
         showIcon: true
@@ -33,15 +33,15 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: SunaAi custom AI models preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: AI Solutions
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -53,24 +53,24 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
-      color: text-dark
+      text: Why Choose SunaAi
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: AI Solutions That Deliver Results
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: Custom Models
+        subtitle: Built for You
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We design and train AI models specifically for your business needs,
+          ensuring optimal performance and seamless integration with your
+          existing systems.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -84,25 +84,25 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
+          altText: Custom AI models icon
           elementId: ''
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Enterprise Ready
+        subtitle: Scale with Confidence
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our AI solutions are built to handle enterprise-level demands,
+          providing reliable performance and security for businesses of all
+          sizes.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
+          altText: Enterprise icon
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -115,19 +115,19 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: User-Friendly
+        subtitle: AI for Everyone
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          We also create intuitive AI solutions for individual users, making
+          advanced technology accessible to everyone without technical
+          expertise.
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
+          altText: User-friendly icon
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Our Approach
       color: text-primary
       styles:
         self:
@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Trusted by Industry Leaders
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -192,7 +192,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
@@ -207,7 +207,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -219,7 +219,7 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -229,18 +229,17 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
+      text: Accelerate Your AI Journey
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Enterprise AI Solutions
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      SunaAi partners with businesses to develop custom AI models that solve
+      real-world problems. From natural language processing to computer vision,
+      we deliver AI solutions that drive measurable results.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -253,7 +252,7 @@ sections:
             - pb-2
             - pl-2
             - pr-2
-          borderColor: border-dark
+          borderColor: border-primary
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
@@ -262,13 +261,13 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: AI Innovation
       color: text-primary
       styles:
         self:
           textAlign: center
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: col
@@ -278,18 +277,17 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
-      color: text-dark
+      text: Custom AI for Enterprise
+      color: text-light
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Tailored Solutions for Your Industry
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Every business has unique challenges. Our team of AI experts works closely
+      with you to understand your needs and develop models that integrate
+      seamlessly with your existing workflows and systems.
     actions: []
     media:
       title: Title of the video
@@ -306,13 +304,13 @@ sections:
             - pb-2
             - pl-2
             - pr-2
-          borderColor: border-dark
+          borderColor: border-primary
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
       type: VideoBlock
     elementId: null
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: row
@@ -320,13 +318,14 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
-      color: text-dark
+      text: AI Solutions for Users
+      color: text-light
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Making AI Accessible
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Beyond enterprise solutions, SunaAi creates intelligent tools designed for
+      individual users. Experience the power of AI in your daily life with our
+      user-friendly applications.
     actions:
       - label: Get started
         url: /
@@ -334,7 +333,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Learn More
         url: /
         showIcon: true
         icon: arrowRight
@@ -343,25 +342,26 @@ sections:
         type: Link
     media:
       url: /images/hero2.svg
-      altText: Fun feature preview
+      altText: AI solutions preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: For Everyone
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
-      color: text-dark
+      text: Enterprise AI Consulting
+      color: text-light
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Expert Guidance
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our team of AI specialists provides strategic consulting to help your
+      organization navigate the AI landscape and implement solutions that
+      deliver real business value.
     actions:
       - label: Get started
         url: /
@@ -369,7 +369,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Learn More
         url: /
         showIcon: true
         icon: arrowRight
@@ -378,20 +378,20 @@ sections:
         type: Link
     media:
       url: /images/hero3.svg
-      altText: Dope design preview
+      altText: AI consulting preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Consulting
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
     type: GenericSection
   - title: Divider
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -402,166 +402,19 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What our clients say about SunaAi
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "SunaAi transformed our business with a custom AI solution that increased our efficiency by 40%."
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Maria Walters, Tech Corp'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          The team at SunaAi understood our unique challenges and delivered
+          an AI model that perfectly fits our workflow. The results exceeded
+          our expectations.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
           styles:
             self:
               borderRadius: full
@@ -580,36 +433,176 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
+      - title: >-
+          "Working with SunaAi was seamless. They built exactly what we needed, on time and within budget."
+        tagline: Testimonial 2
+        subtitle: 'John Doe, Enterprise Solutions'
+        text: >-
+          From initial consultation to deployment, the SunaAi team was
+          professional and responsive. Their AI expertise is unmatched.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: John Doe
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "The AI models from SunaAi have become an integral part of our daily operations."
+        tagline: Testimonial 3
+        subtitle: 'Sarah Chen, StartUp Inc'
+        text: >-
+          We needed a solution that could scale with our growing business.
+          SunaAi delivered an AI platform that adapts to our evolving needs.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Sarah Chen
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "SunaAi's commitment to understanding our industry made all the difference."
+        tagline: Testimonial 4
+        subtitle: 'Michael Roberts, Healthcare Plus'
+        text: >-
+          Their team took the time to learn our specific requirements and
+          regulatory needs. The resulting AI solution is both powerful and compliant.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Michael Roberts
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "As a small business, we never thought AI was within reach. SunaAi changed that."
+        tagline: Testimonial 5
+        subtitle: 'Jane Walters, Local Business'
+        text: >-
+          Their user-friendly AI tools have helped us compete with larger
+          companies. SunaAi truly makes AI accessible to everyone.
+        image:
+          url: /images/person-placeholder-light.png
+          altText: Jane Walters
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
+      - title: >-
+          "The ROI on our SunaAi investment has been remarkable."
+        tagline: Testimonial 6
+        subtitle: 'Jane Doe, Finance Group'
+        text: >-
+          SunaAi delivered measurable results that directly impacted our
+          bottom line. Their AI solutions are a true competitive advantage.
+        image:
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+          type: ImageBlock
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+        type: FeaturedItem
     elementId: null
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Our AI Services
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Solutions for Every Need
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Natural Language Processing
+        tagline: NLP Solutions
+        subtitle: Understand and process text
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Build AI models that understand, interpret, and generate human language for your applications.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          altText: NLP icon
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -620,19 +613,19 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Computer Vision
+        tagline: Image Recognition
+        subtitle: Visual AI intelligence
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Custom image and video analysis models for object detection, recognition, and visual understanding.
         image:
           url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          altText: Computer Vision icon
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -643,19 +636,19 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Predictive Analytics
+        tagline: Data Intelligence
+        subtitle: Forecast and optimize
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Leverage your data with AI models that predict trends, optimize operations, and drive decisions.
         image:
           url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          altText: Predictive Analytics icon
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -680,15 +673,14 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
-      color: text-dark
+      text: Get in Touch
+      color: text-light
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Let's Build Your AI Solution
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Ready to transform your business with custom AI? Contact us to discuss
+      your needs and learn how SunaAi can help you achieve your goals. Our team
+      of experts is ready to guide you through every step of the process.
     media:
       fields:
         - name: name
@@ -708,7 +700,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Tell us about your AI needs
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -719,7 +711,7 @@ sections:
             - pb-6
             - pl-6
             - pr-6
-          borderColor: border-dark
+          borderColor: border-primary
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
@@ -736,11 +728,11 @@ sections:
       label: Contact Us
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: SunaAi - Custom AI Models for Businesses | Made by GOFi
+  metaDescription: SunaAi builds custom AI models for companies and intelligent solutions for users. Transform your business with AI. Made by GOFi.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

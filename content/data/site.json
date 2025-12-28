@@ -3,7 +3,7 @@
     "footer": "content/data/footer.json",
     "title": "SunaAi",
     "titleSuffix": "SunaAi",
-    "description": "SunaAi — AI-powered products and services",
+    "description": "SunaAi — Custom AI models for businesses and intelligent solutions for everyone. Made by GOFi.",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"

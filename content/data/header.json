@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/logo-white.svg",
         "altText": "SunaAi logo",
         "styles": {
             "self": {
@@ -89,6 +89,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }

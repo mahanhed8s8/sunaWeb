@@ -4,7 +4,7 @@
         "altText": "SunaAi logo",
         "type": "ImageBlock"
     },
-    "text": "SunaAi — AI-powered products and services",
+    "text": "SunaAi — Custom AI models for businesses and intelligent solutions for everyone. Made by GOFi.",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "© SunaAi\n",
+    "copyrightText": "© SunaAi. Made by GOFi.\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
