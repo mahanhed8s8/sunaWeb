@@ -1,7 +1,9 @@
 {
     "favicon": "/images/favicon.svg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "title": "SunaAi",
+    "titleSuffix": "SunaAi",
+    "description": "SunaAi — AI-powered products and services",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"

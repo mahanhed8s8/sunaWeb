@@ -1,10 +1,8 @@
-# Content Ops Starter
+# SunaAi Website
 
-![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
+SunaAi example site built from the starter — themed and branded for SunaAi (AI-powered products and services).
 
-Netlify starter that's made for customization with a flexible content model, component library, [visual editing](https://docs.netlify.com/visual-editor/overview/) and [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
-
-**⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
+**⚡ View demo:** Replace with your SunaAi demo URL when available.
 
 ## Table of Contents
 

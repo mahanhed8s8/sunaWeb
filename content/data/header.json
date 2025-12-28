@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "altText": "SunaAi logo",
         "styles": {
             "self": {
                 "margin": ["mr-3"]
@@ -71,9 +71,9 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "label": "Get started",
+            "altText": "Get started",
+            "url": "https://app.sunaai.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
